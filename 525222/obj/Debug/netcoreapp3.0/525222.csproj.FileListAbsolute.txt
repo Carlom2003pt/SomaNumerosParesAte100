@@ -1,0 +1,24 @@
+C:\Users\Samsung\source\repos\525222\525222\bin\Debug\netcoreapp3.0\525222.exe
+C:\Users\Samsung\source\repos\525222\525222\bin\Debug\netcoreapp3.0\525222.deps.json
+C:\Users\Samsung\source\repos\525222\525222\bin\Debug\netcoreapp3.0\525222.runtimeconfig.json
+C:\Users\Samsung\source\repos\525222\525222\bin\Debug\netcoreapp3.0\525222.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\525222\525222\bin\Debug\netcoreapp3.0\525222.dll
+C:\Users\Samsung\source\repos\525222\525222\bin\Debug\netcoreapp3.0\525222.pdb
+C:\Users\Samsung\source\repos\525222\525222\obj\Debug\netcoreapp3.0\525222.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\525222\525222\obj\Debug\netcoreapp3.0\525222.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\525222\525222\obj\Debug\netcoreapp3.0\525222.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\525222\525222\obj\Debug\netcoreapp3.0\525222.dll
+C:\Users\Samsung\source\repos\525222\525222\obj\Debug\netcoreapp3.0\525222.pdb
+C:\Users\Carlos Marques\source\Antiga\525222\525222\bin\Debug\netcoreapp3.0\525222.exe
+C:\Users\Carlos Marques\source\Antiga\525222\525222\bin\Debug\netcoreapp3.0\525222.deps.json
+C:\Users\Carlos Marques\source\Antiga\525222\525222\bin\Debug\netcoreapp3.0\525222.runtimeconfig.json
+C:\Users\Carlos Marques\source\Antiga\525222\525222\bin\Debug\netcoreapp3.0\525222.runtimeconfig.dev.json
+C:\Users\Carlos Marques\source\Antiga\525222\525222\bin\Debug\netcoreapp3.0\525222.dll
+C:\Users\Carlos Marques\source\Antiga\525222\525222\bin\Debug\netcoreapp3.0\525222.pdb
+C:\Users\Carlos Marques\source\Antiga\525222\525222\obj\Debug\netcoreapp3.0\525222.csproj.AssemblyReference.cache
+C:\Users\Carlos Marques\source\Antiga\525222\525222\obj\Debug\netcoreapp3.0\525222.AssemblyInfoInputs.cache
+C:\Users\Carlos Marques\source\Antiga\525222\525222\obj\Debug\netcoreapp3.0\525222.AssemblyInfo.cs
+C:\Users\Carlos Marques\source\Antiga\525222\525222\obj\Debug\netcoreapp3.0\525222.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Marques\source\Antiga\525222\525222\obj\Debug\netcoreapp3.0\525222.dll
+C:\Users\Carlos Marques\source\Antiga\525222\525222\obj\Debug\netcoreapp3.0\525222.pdb
+C:\Users\Carlos Marques\source\Antiga\525222\525222\obj\Debug\netcoreapp3.0\525222.genruntimeconfig.cache
